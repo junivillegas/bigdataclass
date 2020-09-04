@@ -1,9 +1,13 @@
+import sys
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import col, asc
+from pyspark.sql.functions import col
 from pyspark.sql.types import (IntegerType, StructField,
                                StructType, StringType)
 
 def load_CSV():
+
+    csv_files = sys.argv[1:]
+
     spark = SparkSession.builder.appName("Read HomeWork 1").getOrCreate()
 
     ## Leer csv estudiante.csv
@@ -14,7 +18,7 @@ def load_CSV():
             StructField('carrera', StringType()),
         ])
 
-    dataframe_estudiantes = spark.read.csv("estudiante.csv",
+    dataframe_estudiantes = spark.read.csv(csv_files[0],
                             schema=csv_schema_estudiantes,
                             header=False)
 
@@ -26,7 +30,7 @@ def load_CSV():
             StructField('nombre', StringType()),
         ])
 
-    dataframe_curso = spark.read.csv("curso.csv",
+    dataframe_curso = spark.read.csv(csv_files[1],
                             schema=csv_schema_curso,
                             header=False)
 
@@ -38,7 +42,7 @@ def load_CSV():
             StructField('nota', IntegerType()),
         ])
 
-    dataframe_notas = spark.read.csv("nota.csv",
+    dataframe_notas = spark.read.csv(csv_files[2],
                             schema=csv_schema_nota,
                             header=False)
 
