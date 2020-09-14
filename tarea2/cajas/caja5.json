@@ -1,0 +1,245 @@
+{
+    "numero_caja": 50,
+    "compras": [
+        [
+            {
+                "nombre": "Guanabana",
+                "cantidad": 5,
+                "precio": 1900
+            }
+        ],
+        [
+            {
+                "nombre": "Aguacate",
+                "cantidad": 5,
+                "precio": 6000
+            },
+            {
+                "nombre": "Sandia",
+                "cantidad": 8,
+                "precio": 2500
+            }
+        ],
+        [
+            {
+                "nombre": "Limon",
+                "cantidad": 8,
+                "precio": 1090
+            }
+        ],
+        [
+            {
+                "nombre": "Limon",
+                "cantidad": 3,
+                "precio": 1090
+            },
+            {
+                "nombre": "Peras",
+                "cantidad": 4,
+                "precio": 3000
+            }
+        ],
+        [
+            {
+                "nombre": "Peras",
+                "cantidad": 9,
+                "precio": 3000
+            },
+            {
+                "nombre": "Papaya",
+                "cantidad": 3,
+                "precio": 1400
+            }
+        ],
+        [
+            {
+                "nombre": "Manzana",
+                "cantidad": 2,
+                "precio": 2000
+            },
+            {
+                "nombre": "Limon",
+                "cantidad": 7,
+                "precio": 1090
+            },
+            {
+                "nombre": "Sandia",
+                "cantidad": 2,
+                "precio": 2500
+            },
+            {
+                "nombre": "Mango",
+                "cantidad": 6,
+                "precio": 1800
+            }
+        ],
+        [
+            {
+                "nombre": "Guanabana",
+                "cantidad": 9,
+                "precio": 1900
+            },
+            {
+                "nombre": "Peras",
+                "cantidad": 4,
+                "precio": 3000
+            }
+        ],
+        [
+            {
+                "nombre": "Uvas",
+                "cantidad": 4,
+                "precio": 3200
+            },
+            {
+                "nombre": "Banano",
+                "cantidad": 12,
+                "precio": 1200
+            },
+            {
+                "nombre": "Aguacate",
+                "cantidad": 4,
+                "precio": 6000
+            }
+        ],
+        [
+            {
+                "nombre": "Mango",
+                "cantidad": 9,
+                "precio": 1800
+            },
+            {
+                "nombre": "Uvas",
+                "cantidad": 1,
+                "precio": 3200
+            },
+            {
+                "nombre": "Limon",
+                "cantidad": 3,
+                "precio": 1090
+            }
+        ],
+        [
+            {
+                "nombre": "Naranja",
+                "cantidad": 11,
+                "precio": 1700
+            },
+            {
+                "nombre": "Aguacate",
+                "cantidad": 4,
+                "precio": 6000
+            },
+            {
+                "nombre": "Banano",
+                "cantidad": 12,
+                "precio": 1200
+            },
+            {
+                "nombre": "Peras",
+                "cantidad": 1,
+                "precio": 3000
+            }
+        ],
+        [
+            {
+                "nombre": "Uvas",
+                "cantidad": 1,
+                "precio": 3200
+            }
+        ],
+        [
+            {
+                "nombre": "Aguacate",
+                "cantidad": 3,
+                "precio": 6000
+            },
+            {
+                "nombre": "Sandia",
+                "cantidad": 1,
+                "precio": 2500
+            },
+            {
+                "nombre": "Mango",
+                "cantidad": 9,
+                "precio": 1800
+            },
+            {
+                "nombre": "Banano",
+                "cantidad": 12,
+                "precio": 1200
+            },
+            {
+                "nombre": "Papaya",
+                "cantidad": 3,
+                "precio": 1400
+            },
+            {
+                "nombre": "Melon",
+                "cantidad": 12,
+                "precio": 1000
+            }
+        ],
+        [
+            {
+                "nombre": "Melon",
+                "cantidad": 5,
+                "precio": 1000
+            },
+            {
+                "nombre": "Papaya",
+                "cantidad": 11,
+                "precio": 1400
+            },
+            {
+                "nombre": "Peras",
+                "cantidad": 6,
+                "precio": 3000
+            }
+        ],
+        [
+            {
+                "nombre": "Melon",
+                "cantidad": 7,
+                "precio": 1000
+            }
+        ],
+        [
+            {
+                "nombre": "Guanabana",
+                "cantidad": 1,
+                "precio": 1900
+            },
+            {
+                "nombre": "Sandia",
+                "cantidad": 1,
+                "precio": 2500
+            },
+            {
+                "nombre": "Uvas",
+                "cantidad": 1,
+                "precio": 3200
+            },
+            {
+                "nombre": "Peras",
+                "cantidad": 4,
+                "precio": 3000
+            },
+            {
+                "nombre": "Aguacate",
+                "cantidad": 1,
+                "precio": 6000
+            },
+            {
+                "nombre": "Mango",
+                "cantidad": 2,
+                "precio": 1800
+            },
+            {
+                "nombre": "Banano",
+                "cantidad": 3,
+                "precio": 1200
+            }
+        ]
+    ]
+}

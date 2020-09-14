@@ -1,0 +1,75 @@
+{
+    "numero_caja": 48,
+    "compras": [
+        [
+            {
+                "nombre": "Melon",
+                "cantidad": 7,
+                "precio": 1000
+            }
+        ],
+        [
+            {
+                "nombre": "Limon",
+                "cantidad": 3,
+                "precio": 1090
+            }
+        ],
+        [
+            {
+                "nombre": "Peras",
+                "cantidad": 1,
+                "precio": 3000
+            }
+        ],
+        [
+            {
+                "nombre": "Melon",
+                "cantidad": 7,
+                "precio": 1000
+            }
+        ],
+        [
+            {
+                "nombre": "Limon",
+                "cantidad": 3,
+                "precio": 1090
+            }
+        ],
+        [
+            {
+                "nombre": "Sandia",
+                "cantidad": 6,
+                "precio": 2500
+            }
+        ],
+        [
+            {
+                "nombre": "Guanabana",
+                "cantidad": 11,
+                "precio": 1900
+            }
+        ],
+        [
+            {
+                "nombre": "Uvas",
+                "cantidad": 3,
+                "precio": 3200
+            }
+        ],
+        [
+            {
+                "nombre": "Limon",
+                "cantidad": 4,
+                "precio": 1090
+            }
+        ],
+        [
+            {
+                "nombre": "Uvas",
+                "cantidad": 1,
+                "precio": 3200
+            }
+        ]
+    ]
+}
